@@ -1,2 +1,2 @@
 # codechefDSA
-CodeChef Learning Series problems on different topics
+CodeChef DSA Learning Series problems on different topics
